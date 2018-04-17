@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tingwei/ALL_TUT/CV_imu_data/main.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+vector
+-
+

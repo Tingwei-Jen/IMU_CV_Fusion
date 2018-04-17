@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tingwei/ALL_TUT/imu_high_and_low_pass_filter/main.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+vector
+-
+stdlib.h
+-
+
