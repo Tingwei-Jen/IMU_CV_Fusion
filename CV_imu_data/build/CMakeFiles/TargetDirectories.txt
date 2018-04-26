@@ -1,3 +1,0 @@
-/home/tingwei/ALL_TUT/CV_imu_data/build/CMakeFiles/edit_cache.dir
-/home/tingwei/ALL_TUT/CV_imu_data/build/CMakeFiles/rebuild_cache.dir
-/home/tingwei/ALL_TUT/CV_imu_data/build/CMakeFiles/pre_data_process.dir

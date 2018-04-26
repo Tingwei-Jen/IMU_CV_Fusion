@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tingwei/ALL_TUT/IMU_CV_Fusion/imu_integral_velocity_mimic_gait/main.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+vector
+-
+math.h
+-
+
